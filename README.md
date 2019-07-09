@@ -19,4 +19,4 @@ Go内置数据类型和绝大多数的库和精心设计的数据结构惠很自
 
 **Structure**
 
-1. Why I decide to learn Go
+1. ![Why the go and environment details](https://github.com/ReyRen/TheGoProgramming/tree/master/why_to_learn_go_and_setup)
